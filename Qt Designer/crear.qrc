@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>crear.qrc</file>
+    <file>../Archivos Python/iconos/abrir-agregar-carpeta.png</file>
+    <file>../Archivos Python/iconos/advertencia (1).png</file>
+    <file>../Archivos Python/iconos/agregar.png</file>
+    <file>../Archivos Python/iconos/archivo-pdf.png</file>
+    <file>../Archivos Python/iconos/carpeta-abierta.png</file>
+    <file>../Archivos Python/iconos/grupo-de-usuarios.png</file>
+    <file>../Archivos Python/iconos/logotipo-de-python-language.png</file>
+    <file>../Archivos Python/iconos/programacion (2).png</file>
+    <file>../Archivos Python/iconos/programacion-web.png</file>
+  </qresource>
+  <qresource prefix="prefijoNuevo">
+    <file>advertencia (1).png</file>
+  </qresource>
+</RCC>
